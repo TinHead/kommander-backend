@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/TinHead/kommander-backend/tree/master.svg?style=svg)](https://circleci.com/gh/TinHead/kommander-backend/tree/master)
 # kommander-backend
 gin gonic kommander backend
 
