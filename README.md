@@ -15,4 +15,3 @@ The backend handles klipper serial communication trough /tmp/printer, serves the
 - upload files
 - send to printer via virtual sd (only?)
 
-test.
